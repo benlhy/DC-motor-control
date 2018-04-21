@@ -1,8 +1,12 @@
 # DC-motor-control
 
-Schematic for the board is here.
+Layout for the standalone board is here:
 
 ![layout](https://github.com/benlhy/DC-motor-control/blob/master/Layout.JPG)
+
+Boost board layout:
+
+![boost]((https://github.com/benlhy/DC-motor-control/blob/master/boost.JPG))
 
 # Design Decisions
 
@@ -11,7 +15,7 @@ TB6612FNG - 2.5 ~ 13.5V, 1.3A per channel, max 3.2A
 DRV8848 - 4 ~ 18V, 1A per channel, max 2A
 
 ## Regulator
-MIC5219 - 20V input range
+MIC5219 - 20V input range, and comes in 5V flavour and 3.3V flavour
 
 
 ## Crystal
