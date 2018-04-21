@@ -2,6 +2,8 @@
 
 Schematic for the board is here.
 
+![layout](https://github.com/benlhy/DC-motor-control/blob/master/Layout.JPG)
+
 # Design Decisions
 
 ## Motor Driver
