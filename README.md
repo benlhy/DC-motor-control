@@ -9,7 +9,7 @@ Layout for the standalone board is here:
 
 Boost board layout:
 
-![boost]((https://github.com/benlhy/DC-motor-control/blob/master/boost.JPG))
+![boost](https://github.com/benlhy/DC-motor-control/blob/master/boost.JPG)
 
 # Programming
 
