@@ -1,4 +1,7 @@
-# DC-motor-control
+# Rebus Controller
+This a DC motor controller built around the TI TIVA TM4C123 chip. It has position and velocity control and can be linked up to form a multi-axis system. 
+
+# Layouts
 
 Layout for the standalone board is here:
 
@@ -7,6 +10,10 @@ Layout for the standalone board is here:
 Boost board layout:
 
 ![boost]((https://github.com/benlhy/DC-motor-control/blob/master/boost.JPG))
+
+# Programming
+
+To program this board you will need Launchpad that has the programming pins broken out. Please see the [programming repo](https://github.com/benlhy/DC-Control-Module) for more details.
 
 # Design Decisions
 
