@@ -1,4 +1,3 @@
-# Rebus Controller
 ![rebus](https://github.com/benlhy/DC-motor-control/blob/master/rebus.jpg)
 
 This a DC motor controller built around the TI TIVA TM4C123 chip. It has position and velocity control and can be linked up to form a multi-axis system. 
